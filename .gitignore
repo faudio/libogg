@@ -1,2 +1,10 @@
 *.log
 *.status
+Makefile
+config.h
+doc/Makefile
+doc/libogg/Makefile
+libtool
+src/Makefile
+*.o
+*.lo
