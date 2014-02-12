@@ -8,3 +8,11 @@ libtool
 src/Makefile
 *.o
 *.lo
+config_types.h
+*.spec
+*.pc
+src/.deps
+src/.libs
+src/libogg.la
+src/test*
+stamp-h1
